@@ -11,7 +11,7 @@ Vista:
     Esta es responsable de mostrar la lista de los productos y solicitarle al usuario que introduzca nuevos elementos.
 
 Controlador:
-    Conecta al modelo y la vista gestionando las y redirigiendo las acciones del usuario al módulo correspondiente.
+    Conecta al modelo y la vista gestionandolas y redirigiendo las acciones del usuario al módulo correspondiente.
 
 Ejecución del método main.py:
     Sólo deberá descargar todos los archivos alojándolos en un fichero único y ejecutar a través de la consola de su preferencia.
